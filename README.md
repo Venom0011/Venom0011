@@ -1,8 +1,8 @@
 ## Hello, I'm Abhishek Mahajan 👋
-
-- 🎓 Currently pursuing PG-DAC from IACSD.
+- 🏢 Working at Nitor as Software Engineer.
+- 🎓 Completed PG-DAC from IACSD.
 - 🌱 Learning Java and .NET to build robust and scalable applications.
-- 🚀 Developed various mini projects using Java Servlet.
+- 🚀 Developed various mini projects using Java SpringBoot.
 - 💼 Completed an internship at Capgemini as a .NET developer.
 
 Feel free to explore my repositories to see my projects and contributions! 🚀
